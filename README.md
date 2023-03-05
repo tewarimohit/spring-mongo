@@ -1,7 +1,7 @@
 
-#Todo list using SpringBoot and MongoDB.
+# Todo list using SpringBoot and MongoDB.
 
-##Preforms CRUD operations.
+## Preforms CRUD operations.
 
 ### Fetch and Create todo list with end-point ("/todos")
 ### Update particular todo with id end-point ("/todos/{todoId}")
